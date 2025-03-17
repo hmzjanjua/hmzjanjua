@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @hmzjanjua
 - 👀 I’m interested in AI, Machine Learning, Web Development, SQL, Flask, Djano, Fullstack, Robotics, Distributed Computing, Cloud, Big Data
-- 🌱 I’m currently learning Robotics, AI, Electrical Engineer, Renewables, Sustainability, Signal Processing
+- 🌱 I’m currently learning Robotics, AI, Electrical Engineering, Renewable Energy, and Distribution of Energy, Sustainability, Signal Processing
 - 💞️ I’m looking to collaborate on inventing cutting edge technologies and working on latest technology services and stacks
-- 📫 Reach me at hmzjanjua@gmail.com, hamza.janjua@octalith.com
+- 📫 Reach me at hmzjanjua@gmail.com, hamza.janjua@au.harveynorman.com
 
 Def person(id,attr,life):
   Id=id
